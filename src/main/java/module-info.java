@@ -1,6 +1,7 @@
 module ca.durhamcollege.oop3200f2022week14 {
     requires javafx.controls;
     requires javafx.fxml;
+    requires fontawesomefx;
 
 
     opens ca.durhamcollege.oop3200f2022week14 to javafx.fxml;
